@@ -2,3 +2,17 @@
 2	63	7223593648996725	CMakeFiles/pratical_work.dir/main.c.obj	ddefc490e79996b9
 2	68	7223591328239029	CMakeFiles/pratical_work.dir/parser.c.obj	a7b050c0f4c4f782
 64	139	7223593649716056	pratical_work.exe	a90a5c20980df0d9
+9	83	7223625580530434	CMakeFiles/pratical_work.dir/main.c.obj	ddefc490e79996b9
+6	86	7223625580565596	CMakeFiles/pratical_work.dir/solar_system.c.obj	4b6fcc56e88cbb44
+2	91	7223625580615657	CMakeFiles/pratical_work.dir/input_reader.c.obj	f8b77e86592d7f34
+91	177	7223625581467151	pratical_work.exe	97d31c5647bb25eb
+1	60	7223626238971049	CMakeFiles/pratical_work.dir/solar_system.c.obj	4b6fcc56e88cbb44
+61	139	7223626239708156	pratical_work.exe	97d31c5647bb25eb
+2	64	7223626478371637	CMakeFiles/pratical_work.dir/main.c.obj	ddefc490e79996b9
+65	137	7223626479060563	pratical_work.exe	97d31c5647bb25eb
+2	63	7223629536514163	CMakeFiles/pratical_work.dir/solar_system.c.obj	4b6fcc56e88cbb44
+63	149	7223629537333342	pratical_work.exe	97d31c5647bb25eb
+2	54	7223630261349486	CMakeFiles/pratical_work.dir/solar_system.c.obj	4b6fcc56e88cbb44
+54	130	7223630262057000	pratical_work.exe	97d31c5647bb25eb
+2	67	7223633259893465	CMakeFiles/pratical_work.dir/solar_system.c.obj	4b6fcc56e88cbb44
+67	161	7223633260789661	pratical_work.exe	97d31c5647bb25eb

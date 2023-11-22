@@ -5,6 +5,6 @@
 #include <stdlib.h>
 #include "solar_system.h"
 
-solar_system_t* read_solar_systems(); 
+solar_system_t* read_solar_systems(int number_of_solar_systems); 
 
 #endif 
